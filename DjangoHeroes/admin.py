@@ -8,3 +8,4 @@ admin.site.register(Hero)
 admin.site.register(Villain)
 admin.site.register(Origin)
 admin.site.register(Category)
+
